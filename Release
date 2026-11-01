@@ -1,8 +1,7 @@
-Origin: Lucis Fnec Repo
-Label: fnec
+Origin: Cydia Repository
+Label: Cydia Repository
 Suite: stable
-Version: 1.0
-Codename: cydia-ios
-Architectures: iphoneos-arm
+Codename: stable
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: cuz the fnec is sick of other repos going down
+Description: Cydia package repository
