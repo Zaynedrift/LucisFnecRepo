@@ -8,3 +8,6 @@ to add it to cydia you may either
 
 OR
 - visiting https://cydia.zaynedrift.com and press the highlighted "click on dis"
+
+
+Confirmed working devices can be found [Here](https://github.com/Zaynedrift/cydia/blob/master/working-devices.md)
